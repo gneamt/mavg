@@ -9,4 +9,9 @@ public class TestB extends TestCase {
         assertTrue( false );
     }
 	
+	public void testAAA()
+    {
+        assertTrue( false );
+    }
+	
 }
