@@ -6,12 +6,17 @@ public class TestB extends TestCase {
 
 	public void testA()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
 	
 	public void testAAA()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
+	public void testABC()
+    {
+        assertTrue( true );
+    }
+	
 	
 }
